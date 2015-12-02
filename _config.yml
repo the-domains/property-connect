@@ -1,0 +1,28 @@
+name: Property Connect
+favicon: null
+layout_spectrum: 0.18347938498482108
+typography_spectrum: 0.5883165840059519
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10479626525193453
+  lightness: 0.8474305826239288
+  saturation: 0.06951168994419277
+  rhythmicContrast: 0.2789338396396488
+purpose: []
